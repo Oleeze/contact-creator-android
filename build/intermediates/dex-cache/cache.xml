@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f1b48242951875a0834e1de815ee72934c7f792">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4ce866ae2308c94320e10f819f34067c87f0a970\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_519c2a3d727135bb817c13d885ab45cf4d7f3a57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_726c6f14e6cf722b2e36053d56b632d7ef5dc98a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_0695772a8d431f3c1768a3ec18939ed06511cd09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d1508ecaf318599ecb2062e390a1f962e20efe7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_3a27485a2f00f00d5bad495718ce293a2e2bc300\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_a13cf7919c68318ba5b9ee47d52ce8b12853c53a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_9015f2d9eb5a822ed01ea33ed2fa951a88f1fbe3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_fba7ac57bbe08e7d76acbab3f376e1038a614005\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_aec52706cd959137f7d81bdca59f7f22e9859af7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c6b7a66356c3c596d3334d070158eae4c8b9a3c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_762f348300b6e751f84fe1747ca5316b16a1be66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_6c8753afd8284263aba8b698527f278e1b244df1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6066b86f03e5094dc7afed8ea15ea91b4ec1e92a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6555ef916970a6da3becd54cb42d2bb54595f0e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_3776d9ca9131e624e5623f7a26a798ba6094c94b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_f11e13ad8aea885b4aba96b6fa8f1e9f3177231d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65b9c27b210efb165c54b040d2d91e42034d661a">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_50978d4ef884d97ea4ee2da9f26b121ecd883b9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Oleeze\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Oleeze\AndroidStudioProjects\ContactOrganizer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_6b370a1cab32a71275e7344730b5064bcd41b355\classes.dex" />
+    </item>
+
+</items>
